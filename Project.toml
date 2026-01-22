@@ -1,0 +1,23 @@
+name = "Minerva"
+uuid = "6faa9244-6533-4e54-a303-17ec40e46d8e"
+version = "1.0.0-DEV"
+authors = ["Federico Hattab"]
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+
+[compat]
+CSV = "0.10.15"
+DataFrames = "1.8.1"
+IterTools = "1.10.0"
+Printf = "1.11.0"
+julia = "1.10.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

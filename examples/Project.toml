@@ -1,0 +1,13 @@
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+FuelCycleLibrary = "cfc8ee7a-a8f5-4627-95ba-9f9a3798f375"
+Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
+IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
+Minerva = "6faa9244-6533-4e54-a303-17ec40e46d8e"
+ModelingToolkit = "961ee093-0014-501f-94e3-6117800e7a78"
+ModelingToolkitStandardLibrary = "16a59e39-deab-5bd0-87e4-056b12336739"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+SciCompDSL = "91a8cdf1-4ca6-467b-a780-87fda3fff15e"
