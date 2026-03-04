@@ -1,0 +1,13 @@
+*.jl.*.cov
+*.jl.cov
+*.jl.mem
+/Manifest*.toml
+/docs/Manifest*.toml
+/docs/build/
+/examples/Manifest*.toml
+*.csv
+/examples/*.png
+/examples/*.jpg
+/examples/*.eps
+/src/GUI/node_modules/
+/src/GUI/*.json
